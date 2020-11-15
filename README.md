@@ -10,7 +10,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-OmkarLohar.vercel.app/api/spotify-playing" alt="Omkar Spotify Playing" width="350" />](https://open.spotify.com/user/31fjjcku27sxiskz2ywzaqwpspjm)
+[<img src="https://now-playing-Omkar Lohar.vercel.app/api/spotify-playing" alt="Omkar Spotify Playing" width="350" />](https://open.spotify.com/user/31fjjcku27sxiskz2ywzaqwpspjm)
 
 ### Connect with me:
 
