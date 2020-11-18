@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/omkar_lhr_9595?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=omkar_lhr_9595)
 
-## I'm a Student !! Best Friend of My Best Friend !! <img alt="TBBT" width="26px" src="https://cdn.worldvectorlogo.com/logos/the-big-bang-theory.svg" /> The Big Bang Theory !! BAZINGA !!
+## I'm a Student !! Best Friend of My Best Friend !! <img alt="TBBT" width="26px" src="https://cdn.worldvectorlogo.com/logos/the-big-bang-theory.svg" /> The Big Bang Theory !! BUZZINGA !!
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Contribute more to my programming skils
