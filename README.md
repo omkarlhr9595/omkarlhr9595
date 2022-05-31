@@ -54,7 +54,7 @@ I am Android developer who is passionate about writing code, solving problems, b
 </br>
 
 
-![](https://img.shields.io/badge/Style-Tailwindcss-informational?style=flat&logo=Tailwind&color=38BDF8)
+![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=TailwindCss&color=38BDF8)
 ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
 
