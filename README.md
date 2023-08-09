@@ -70,9 +70,8 @@ I am Android developer who is passionate about writing code, solving problems, b
 ![](https://img.shields.io/badge/Tools-Visualstudio-informational?style=flat&logo=visual-studio&Color=white)
 
 
-<div align="center">
-  [![Leetcode Stats](https://leetcode.card.workers.dev/?username=omkarlohar91)](https://leetcode.com/omkarlohar91) 
- </div>
+ [![Leetcode Stats](https://leetcode.card.workers.dev/?username=omkarlohar91)](https://leetcode.com/omkarlohar91) 
+
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=omkarlhr9595&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" /><br/><br/><br/>
 
