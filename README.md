@@ -79,4 +79,3 @@ I am Android developer who is passionate about writing code, solving problems, b
 [instagram]: https://www.instagram.com/omkar_lhr_9595/
 [linkedin]: https://www.linkedin.com/in/omkar-lohar-3a8848153/
 [web]: htttps://www.google.com
-![snake gif](https://github.com/omkarlhr9595/omkarlhr9595/blob/output/github-contribution-grid-snake.gif)
