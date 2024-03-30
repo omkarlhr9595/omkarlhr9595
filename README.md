@@ -1,63 +1,35 @@
+<h2 align="left">Hi 👋! My name is Omkar Lohar and I'm a Software Engineer @Azodha, from Pune</h2>
 
-<h3 align="center">
-Hi there, 👋 
-</h3>
+###
 
-<h2 align="center">
-I'm Omkar Lohar 👨‍💻
-</h2> 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=omkarlhr9595&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omkarlhr9595&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="270" />
+###
 
-I am Software developer who is passionate about writing code, solving problems,Currently working @azodha as Flutter Intern, been Good in application design and development with an innovative concept to the next evolutionary phase.  Having strong communication and technical background. I am driven by roles that will leverage my strengths in a Software Development capacity for a mutually rewarding experience.
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+</div>
 
-### 🤝 Connect with me:
+###
 
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
-<a href="https://twitter.com/Omkar_lhr_9595"><img align="left" alt="Emmanuel-Ezekiel  | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
-<a href="https://www.linkedin.com/in/omkar-lohar-3a8848153/"><img align="left" alt="Emmanuel-Ezekiel  | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-<a href="https://instagram.com/omkar_lhr_9595"><img align="left" alt="Emmanuel-Ezekiel  | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+###
 
-</br>
+<br clear="both">
 
-
-<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
-
-
-## 💼 Technical Skills
-
-
-![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&color=59C7F8)
-![](https://img.shields.io/badge/Code-Nodejs-informational?style=flat&logo=nodedotjs&color=339933)
-![](https://img.shields.io/badge/Code-React--Native-informational?style=flat&logo=react&color=61DAFB)
-![](https://img.shields.io/badge/Code-Android-informational?style=flat&logo=android&color=00FF00)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&color=E34F26)
-
-</br>
-
-
-![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=TailwindCss&color=38BDF8)
-![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
-![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
-
-
-</br>
-
-![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
-![](https://img.shields.io/badge/Tools-Visualstudio-informational?style=flat&logo=visual-studio&Color=white)
-
-
- [![Leetcode Stats](https://leetcode.card.workers.dev/?username=omkarlohar91)](https://leetcode.com/omkarlohar91) 
-
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=omkarlhr9595&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" /><br/><br/><br/>
-
-[twitter]: https://twitter.com//omkar_lhr_9595/
-[instagram]: https://www.instagram.com/omkar_lhr_9595/
-[linkedin]: https://www.linkedin.com/in/omkar-lohar-3a8848153/
-[web]: htttps://www.google.com
+###
